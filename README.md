@@ -28,17 +28,18 @@ A beginner-friendly Python application that extracts email addresses from text f
 
 ## 📸 Screenshots
 <img width="1920" height="1080" alt="Tool Window" src="https://github.com/user-attachments/assets/e2565cb6-a7ea-4ed7-a94f-21932e42c4d3" />
+
 <img width="1920" height="1080" alt="File Uploading" src="https://github.com/user-attachments/assets/c39047d1-9d03-4bf0-a0da-cc0b109fa487" />
+
 <img width="1920" height="1080" alt="Error" src="https://github.com/user-attachments/assets/40fb9c9f-19bc-4df5-839f-f328d33002ce" />
+
 <img width="1920" height="1080" alt="Output File Setting" src="https://github.com/user-attachments/assets/34cc7c5b-6377-4cc6-ab67-895ed19f89ef" />
+
 <img width="1920" height="1080" alt="Extraction Successful" src="https://github.com/user-attachments/assets/04f1e9e5-bfb6-43ae-8768-053a9747ed3e" />
+
 <img width="1920" height="1080" alt="Extracted Emails File" src="https://github.com/user-attachments/assets/8fcb2b28-9dc6-4c44-a327-a9eb761f7155" />
+
 <img width="1920" height="1080" alt="Input, Output, Tool" src="https://github.com/user-attachments/assets/7a9efa84-ea99-470a-b315-8a14ecffb7ac" />
-
-
-### Main Interface
-
-### Drag & Drop Feature
 
 ---
 
