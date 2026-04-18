@@ -1,0 +1,50 @@
+COMSATS University Islamabad – Vehari Campus
+Department: Computer Science
+
+Subject: Object Oriented Programming
+Instructor: Dr. Ahmed Raza
+Contact: [ahmed.raza@cui.edu.pk](mailto:ahmed.raza@cui.edu.pk)
+
+Students List:
+Ali Khan – FA21-BCS-001 – [ali.khan21@gmail.com](mailto:ali.khan21@gmail.com)
+Sara Ahmed – FA21-BCS-002 – [sara.ahmed@outlook.com](mailto:sara.ahmed@outlook.com)
+Usman Tariq – FA21-BCS-003 – [usman_tariq@yahoo.com](mailto:usman_tariq@yahoo.com)
+
+---
+
+Subject: Data Structures
+Instructor: Ms. Hina Malik
+Contact: [hina.malik@cui.edu.pk](mailto:hina.malik@cui.edu.pk)
+
+Students List:
+Ayesha Noor – FA21-BCS-004 – [ayesha.noor@gmail.com](mailto:ayesha.noor@gmail.com)
+Bilal Hussain – FA21-BCS-005 – [bilal.hussain@live.com](mailto:bilal.hussain@live.com)
+Zain Ali – FA21-BCS-006 – [zainali123@gmail.com](mailto:zainali123@gmail.com)
+
+---
+
+Subject: Database Systems
+Instructor: Dr. Farhan Iqbal
+Contact: [farhan.iqbal@cui.edu.pk](mailto:farhan.iqbal@cui.edu.pk)
+
+Students List:
+Hamza Shah – FA21-BCS-007 – [hamza.shah@gmail.com](mailto:hamza.shah@gmail.com)
+Mariam Bibi – FA21-BCS-008 – [mariam_bibi@yahoo.com](mailto:mariam_bibi@yahoo.com)
+Talha Javed – FA21-BCS-009 – [talha.javed@outlook.com](mailto:talha.javed@outlook.com)
+
+---
+
+Subject: Computer Networks
+Instructor: Engr. Saad Ali
+Contact: [saad.ali@cui.edu.pk](mailto:saad.ali@cui.edu.pk)
+
+Students List:
+Hassan Raza – FA21-BCS-010 – [hassan.raza@gmail.com](mailto:hassan.raza@gmail.com)
+Iqra Fatima – FA21-BCS-011 – [iqra.fatima@live.com](mailto:iqra.fatima@live.com)
+Omer Farooq – FA21-BCS-012 – [omer_farooq@yahoo.com](mailto:omer_farooq@yahoo.com)
+
+---
+
+Note:
+For queries, contact admin office at [admin@cui.edu.pk](mailto:admin@cui.edu.pk)
+Or visit website: [www.cui.edu.pk](http://www.cui.edu.pk)
